@@ -1,5 +1,5 @@
 <h1 align="center">Olá meu nome é Marcelo Fortes</h1>
-<h3 align="center">Estou constantemente aprendendo a como me primorar e fazer o melhor a cada dia</h3>
+<h3 align="center">Estou constantemente aprendendo a como me aprimorar e fazer o melhor a cada dia</h3>
 
 <h3 align="left">Sobre mim</h3>
 

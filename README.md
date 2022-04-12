@@ -18,6 +18,7 @@
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
+<p>
  
 |Front End|BackEnd|
 |:-------------------------------------------:	|:---------------------------------------:	|
@@ -27,9 +28,7 @@
 |[Material-UI](https://material-ui.com/)       	|                                         	|
 |[Angular 10](https://angular.io/) | |
 |[AngularJs](https://angularjs.org/) | |
- 
-
-<div>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelofortesgc&show_icons=true&locale=en&layout=compact" alt="mfortesgc" /></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=marcelofortesgc&show_icons=true&locale=en" alt="mfortesgc" /></p>
-</div>
+</p>
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelofortesgc&show_icons=true&locale=en&layout=compact" alt="mfortesgc" />
+</p>

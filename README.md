@@ -1,34 +1,19 @@
-<h1 align="center">Olá meu nome é Marcelo Fortes</h1>
-<h3 align="center">Estou constantemente aprendendo a como me aprimorar e fazer o melhor a cada dia</h3>
+# Olá, me chamo Marcelo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<h3 align="left">Sobre mim</h3>
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-fortes-608328144/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mfortesgc/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelofortes306@gmail.com)
 
-- 🌱 Estou Apredendo **ReactJs, NextJs, .netCore**
+[<img align="right" width="40%" src="https://github-readme-stats-ouuan.vercel.app/api?username=marcelofortesgc&theme=dark&show_icons=true">](https://metrics.lecoq.io/marcelofortesgc#gh-dark-mode-only)
+[<img align="right" width="40%" src="https://github-readme-stats-ouuan.vercel.app/api?username=marcelofortesgc&show_icons=true">](https://metrics.lecoq.io/marcelofortesgc#gh-light-mode-only)
 
-- 👨‍💻 Os projetos que desenvolvi estão disponíveis em [https://marcelofortes.netlify.app/](https://marcelofortes.netlify.app/)
+- 🌱 Estou Apredendo **ReactJs, NextJs, .netCore, Flutter, SASS**
+- 💬 Me pergunte sobre **AngularJs, Angular 10, HTML, Javascript, CSS, C#**
+- 👨‍💻 Os projetos que desenvolvi estão disponíveis no meu [site](https://marcelofortes.netlify.app/) 👈
+- 📄 Olhe meu [Currículo](https://drive.google.com/file/d/1uGdJTxNwdDUo-xIFwdpOsmb7dxASQ7pe/view?usp=sharing)
 
-- 📄 Visite meu Currículo [https://drive.google.com/file/d/1uGdJTxNwdDUo-xIFwdpOsmb7dxASQ7pe/view?usp=sharing](https://drive.google.com/file/d/1uGdJTxNwdDUo-xIFwdpOsmb7dxASQ7pe/view?usp=sharing)
-
- <h3 align="left">Me Encontre por aí:</h3>
-<div>
-  <a href="https://codepen.io/https://codepen.io/marcelofortesgc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/marcelofortesgc" height="40" width="40"/></a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/marcelo-fortes-608328144/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marcelo-fortes-608328144/" height="40" width="40"/></a>
-  <a href="https://codesandbox.com/https://codesandbox.io/dashboard/home?workspace=846f5e8e-3d4b-4aa5-abf6-376cac623b43" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/dashboard/home?workspace=846f5e8e-3d4b-4aa5-abf6-376cac623b43" height="40" width="40" /></a>
-   <a href="https://instagram.com/https://www.instagram.com/mfortesgc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mfortesgc/" height="40" width="40" /></a>
-</p>
-
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p>
- 
-|Front End|BackEnd|
-|:-------------------------------------------:	|:---------------------------------------:	|
-|[React](https://pt-br.reactjs.org/)           	|  [.Net Core](https://docs.microsoft.com/pt-br/dotnet/core/introduction) 	|
-|[Next.js](https://nextjs.org/)               	|                                         	|
-|[Bootstrap](https://getbootstrap.com/)       	|                                           |
-|[Material-UI](https://material-ui.com/)       	|                                         	|
-|[Angular 10](https://angular.io/) | |
-|[AngularJs](https://angularjs.org/) | |
-</p>
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelofortesgc&show_icons=true&locale=en&layout=compact" alt="mfortesgc" />
-</p>
+<h3>📕 Sobre mim</h3>
+- 🌍 De São Luís-MA para o Mundo</br>
+- 🚩 Atualmente morando em Foz do Iguaçu/PR</br>
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas na UniAmérica</br>
+- 👤 Sou desenvolvedor Frontend AngularJs e Backend C# com um pouco mais de 2 anos de experiência desenvolvendo sistemas empresarias, acadêmicos e pessoais.</br>

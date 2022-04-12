@@ -25,6 +25,8 @@
 |[Next.js](https://nextjs.org/)               	|                                         	|
 |[Bootstrap](https://getbootstrap.com/)       	|                                           |
 |[Material-UI](https://material-ui.com/)       	|                                         	|
+|[Angular 10](https://angular.io/) | |
+|[AngularJs](https://angularjs.org/) | |
  
 
 <div>

@@ -1,7 +1,6 @@
 # Olá, me chamo Marcelo 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-fortes-608328144/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mfortesgc/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelofortes306@gmail.com)
 
 [<img align="right" width="40%" src="https://github-readme-stats-ouuan.vercel.app/api?username=marcelofortesgc&theme=dark&show_icons=true">](https://metrics.lecoq.io/marcelofortesgc#gh-dark-mode-only)
